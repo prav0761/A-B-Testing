@@ -24,7 +24,7 @@ This report presents the findings of a comprehensive analysis aimed at evaluatin
 2. Click-Through Rate (CTR):
 A significant increase in CTR was observed for the test campaign compared to the control, indicating enhanced engagement and effectiveness.
 3. Segmentation Analyses:
- Segmentation Analysis was done for different time periods, weekends, weekdays and found that the control and test campaigns didnt have any significant different here as well.
+ Segmentation Analysis was done for different time periods, weekends, weekdays and found that the control and test campaigns didnt have any significant different here as well for metrics such as website clicks, purchases.
 
 ## Conclusion
 
@@ -35,6 +35,6 @@ The analysis highlights the pivotal role of Click-Through Rate (CTR) as a key me
 Based on the findings of the analysis, the following recommendations are proposed:
 
 Focus on CTR: Given its strong correlation with campaign effectiveness, prioritize strategies aimed at increasing Click-Through Rate (CTR) to enhance engagement and drive desired outcomes.
-Segmentation Strategies: Since there were no discernible differences in performance across different time segments, consider refining  targeting strategies to focus on other factors such as audience demographics, interests, or geographical locations.
+Segmentation Strategies: Since there were no discernible differences in performance across different time segments for website clicks, purchases etc, consider refining  targeting strategies to focus on other factors such as audience demographics, interests, or geographical locations.
 Continuous Monitoring: Implement a system for ongoing monitoring and analysis of campaign performance, allowing for timely adjustments and optimization based on evolving user behavior and market trends.
 By leveraging the insights gleaned from this analysis and implementing the recommended strategies, organizations can maximize the impact of their marketing campaigns, drive engagement, and achieve
