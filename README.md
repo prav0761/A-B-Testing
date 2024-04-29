@@ -21,10 +21,10 @@ This report presents the findings of a comprehensive analysis aimed at evaluatin
 
 1. Statistical Analysis:
    T-tests, bootstrap tests, and Mann-Whitney U tests revealed no significant differences in website clicks or purchases between control and test campaigns.
-3. Click-Through Rate (CTR):
+2. Click-Through Rate (CTR):
 A significant increase in CTR was observed for the test campaign compared to the control, indicating enhanced engagement and effectiveness.
-5. Segmentation Analyses:
- Granular insights into campaign performance across weekdays, weekends, and different time periods were obtained, enabling tailored strategies and optimization.
+3. Segmentation Analyses:
+ Segmentation Analysis was done for different time periods, weekends, weekdays and found that the control and test campaigns didnt have any significant different here as well.
 
 ## Conclusion
 
@@ -35,6 +35,6 @@ The analysis highlights the pivotal role of Click-Through Rate (CTR) as a key me
 Based on the findings of the analysis, the following recommendations are proposed:
 
 Focus on CTR: Given its strong correlation with campaign effectiveness, prioritize strategies aimed at increasing Click-Through Rate (CTR) to enhance engagement and drive desired outcomes.
-Segmentation Strategies: Leverage insights from segmentation analyses to tailor campaigns and messaging to specific audience segments, optimizing performance across different time periods and user demographics.
+Segmentation Strategies: Since there were no discernible differences in performance across different time segments, consider refining  targeting strategies to focus on other factors such as audience demographics, interests, or geographical locations.
 Continuous Monitoring: Implement a system for ongoing monitoring and analysis of campaign performance, allowing for timely adjustments and optimization based on evolving user behavior and market trends.
 By leveraging the insights gleaned from this analysis and implementing the recommended strategies, organizations can maximize the impact of their marketing campaigns, drive engagement, and achieve
