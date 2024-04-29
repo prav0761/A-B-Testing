@@ -4,14 +4,11 @@ This report presents the findings of a comprehensive analysis aimed at evaluatin
 Results
 
 1. Statistical Analysis:
-   
-T-tests, bootstrap tests, and Mann-Whitney U tests revealed no significant differences in website clicks or purchases between control and test campaigns.
+   T-tests, bootstrap tests, and Mann-Whitney U tests revealed no significant differences in website clicks or purchases between control and test campaigns.
 3. Click-Through Rate (CTR):
-
 A significant increase in CTR was observed for the test campaign compared to the control, indicating enhanced engagement and effectiveness.
 5. Segmentation Analyses:
- 
-Granular insights into campaign performance across weekdays, weekends, and different time periods were obtained, enabling tailored strategies and optimization.
+ Granular insights into campaign performance across weekdays, weekends, and different time periods were obtained, enabling tailored strategies and optimization.
 
 Conclusion
 
